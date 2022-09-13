@@ -1,3 +1,8 @@
+Architecture as code : Реализованы почти все спецификации Archimate 3.0.1 (все элементы и взаимосвязи)   
+concept Scala DSL для Archimate   
+https://github.com/smeagol74/semod   
+
+
 # System Engineer Modelling DSL for Scala
 This project is Proof Of Concept only and not for production usage yet
 
